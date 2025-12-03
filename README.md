@@ -1,5 +1,4 @@
 # Aerofit-Descriptive-Statistics-Probability-Analysis
-The Aerofit Descriptive  Analysis project focuses on examining customer fitness product data to understand user behavior, product preferences, and buying patterns. The analysis involves applying descriptive statistical techniques—such as mean, median, mode, variance, and distribution analysis—to identify key trends and insights.
 
 # 📌 Project Overview
 
